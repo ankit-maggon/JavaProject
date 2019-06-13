@@ -27,7 +27,7 @@ public class ABC implements InterfacceCheck
 	public void printCall()
 	{
 		
-		System.out.println("ok class");
+		System.out.println("ok class ABC");
 	}
 	
 }
